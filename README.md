@@ -1,3 +1,4 @@
 # Awesome-new-project
 
-dfjkhsgfkjh
+root
+//
